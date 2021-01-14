@@ -1,0 +1,7 @@
+C:\Users\97254\source\repos\Ritza2\Tower\obj\Debug\Tower.csproj.CoreCompileInputs.cache
+C:\Users\97254\source\repos\Ritza2\Tower\bin\Debug\Tower.exe.config
+C:\Users\97254\source\repos\Ritza2\Tower\bin\Debug\Tower.exe
+C:\Users\97254\source\repos\Ritza2\Tower\bin\Debug\Tower.pdb
+C:\Users\97254\source\repos\Ritza2\Tower\obj\Debug\Tower.csprojAssemblyReference.cache
+C:\Users\97254\source\repos\Ritza2\Tower\obj\Debug\Tower.exe
+C:\Users\97254\source\repos\Ritza2\Tower\obj\Debug\Tower.pdb
